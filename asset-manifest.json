@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cinematic-app/static/css/main.8f7078db.chunk.css",
+    "main.js": "/cinematic-app/static/js/main.2d6aa241.chunk.js",
+    "main.js.map": "/cinematic-app/static/js/main.2d6aa241.chunk.js.map",
+    "runtime-main.js": "/cinematic-app/static/js/runtime-main.53a754ed.js",
+    "runtime-main.js.map": "/cinematic-app/static/js/runtime-main.53a754ed.js.map",
+    "static/js/2.792b69b8.chunk.js": "/cinematic-app/static/js/2.792b69b8.chunk.js",
+    "static/js/2.792b69b8.chunk.js.map": "/cinematic-app/static/js/2.792b69b8.chunk.js.map",
+    "index.html": "/cinematic-app/index.html",
+    "precache-manifest.cb706be8f0f284c23dd2826e425c70ad.js": "/cinematic-app/precache-manifest.cb706be8f0f284c23dd2826e425c70ad.js",
+    "service-worker.js": "/cinematic-app/service-worker.js",
+    "static/css/main.8f7078db.chunk.css.map": "/cinematic-app/static/css/main.8f7078db.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53a754ed.js",
+    "static/js/2.792b69b8.chunk.js",
+    "static/css/main.8f7078db.chunk.css",
+    "static/js/main.2d6aa241.chunk.js"
+  ]
+}
