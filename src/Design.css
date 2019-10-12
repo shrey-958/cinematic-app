@@ -1,0 +1,131 @@
+body,html{
+    background-color: #0a0a0a;
+}
+nav{
+    display : flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fa1977;
+    height: 5.6vw;
+  
+  }
+  .navLinks{
+    width: 90%;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 1.4vw;
+    display : flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+  
+  }
+
+  li:hover{
+  display: block;
+  
+  cursor: pointer;
+  }
+
+img{
+    height: 28vw;
+    width:20vw;
+}
+table{
+    margin-left: 10%;
+    width: 60%;
+    height: 3%;
+}
+.ImgContainer{
+
+}
+.Information{
+    background-color: rgba(122, 122, 122, 0.4);
+    border-radius: 10% 26% 18% 5%;
+    
+    
+    
+    
+}
+.TextContainer{
+    display: block;
+    overflow: auto;
+    height: 90%;
+    
+    top: 0%;
+    
+    color: aliceblue;
+}
+.Title{
+    padding-top: 0.5%;
+    padding-left: 2%;
+    padding-bottom: 1%;
+    font-size: 3.4vw;
+}
+.Rating{
+    padding-left: 2%;
+    padding-bottom: 1%;
+    font-size: 2vw;
+}
+.Description{
+    padding-left: 2%;
+    padding-bottom: 1%;
+    font-size: 1.4vw;
+}
+hr{
+    width: 90%;
+    border: 0.8px solid #fcba03;
+}
+.searchOpt{
+    
+    margin-left : 30%;
+    margin-bottom: 3%;
+    padding : 1%;
+    height: 2vw;
+    border-style: none;
+    outline: none;
+    font-size: 100%;
+    
+    background-color: rgb(60, 188, 141, 0.6);
+  color: white;
+
+}
+::placeholder{
+    color:#b6b3b3;
+}
+button{
+    text-align: center;
+    font-size: 90%;
+
+border: none;
+transition-duration: 0.4s;
+background-color: antiquewhite;
+border: 2px solid rgb(241, 20, 20);
+border-radius: 20%;
+outline: none;
+height: 5vh;
+width: 5vw;
+margin : 2%;
+}
+button:hover{
+    background-color: rgb(241, 20, 20);
+    cursor: pointer;
+}
+.ticket{
+    margin-left: 2%;
+    width:6vw;
+    height : 6vw;
+}
+@media(max-width: 650px)
+{
+    .TextContainer{
+        margin-top: 10%;
+        height: 60%;
+        
+    
+    }
+    button{
+        
+        font-size: 60%;
+    }
+}
