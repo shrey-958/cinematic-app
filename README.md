@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-##### Note : Routers are used to swithc between pages according to options in the navigation bar.
+##### Note : Routers are used to switch between pages according to options in the navigation bar.
 
 ### Search Option layout
 ###### (The "Go" button turns completely red if under focus(hover) )
